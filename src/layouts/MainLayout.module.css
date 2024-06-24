@@ -1,0 +1,19 @@
+.MainLayoutLight {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    color: #2b2b2b;
+}
+
+.MainLayoutDark {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: #2b2b2b;
+    color: white;
+}
+
+.mainContainer {
+    width: 85vw;
+}

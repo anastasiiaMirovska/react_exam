@@ -1,0 +1,39 @@
+.Header {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.linkBox {
+    width: 50vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.navLinkLight {
+    text-decoration: none;
+    color: #282c34;
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.navLinkDark {
+    text-decoration: none;
+    color: #d9d9d9;
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.navLinkActive {
+    text-decoration: none;
+    color: #96c200;
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.rightBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

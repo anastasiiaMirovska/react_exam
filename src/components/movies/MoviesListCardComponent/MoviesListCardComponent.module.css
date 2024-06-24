@@ -1,0 +1,22 @@
+.CardBox {
+    width: 13vw;
+    height: 350px;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.OverflowText {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block; /* Відображає елемент як блок */
+}
+
+.posterLink:hover img {
+    transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+.infoBox {
+    margin: 10px 0;
+}
